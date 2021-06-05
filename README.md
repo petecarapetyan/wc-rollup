@@ -2,6 +2,8 @@
 
 when you do, this has rollup
 
+The intent of this project is to provide code for bundling up a wc built from TS but intentionally without minification and all of the rest of the rollup stuff that is much better to apply after the fact, when you bundle up the entire page for deployment on the target browser
+
 ## intentionally inadequate instructions:
 
 Too lazy to write this in a more literally correct way, so here's the contextually inadequate version
